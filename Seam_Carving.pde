@@ -1,5 +1,6 @@
 // This code carves out the vertical path with the least contrast, taking one pixel from each row
 // It can only be run in Processing
+// You can download the video called "Seam Carving Process.mp4 to see a demonstration
 
 PImage img;
 ArrayList<ArrayList<Float>> memory = new ArrayList<ArrayList<Float>>();
