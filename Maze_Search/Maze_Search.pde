@@ -1,3 +1,10 @@
+//This generates a unique maze, then solves it using a priority queue which is compared by "fitness"
+//The dark gray squares have been considered (added to queue)
+//The light gray squares are unexplored
+//The end goal is also chosen randomly
+//You can download the video Maze_Search_Video.mp4 for a demonstration
+
+
 //fitness is a calculation of how "good" a cell is (small numbers are better)
 //it's the sum of the manhattan distance to the end and the number of moves taken to get there
 //therefore faster paths are good, and paths that get close to the end are also good
