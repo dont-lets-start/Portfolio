@@ -2,7 +2,8 @@
 //The dark gray squares have been considered (added to queue)
 //The light gray squares are unexplored
 //The end goal is also chosen randomly
-//You can download the video Maze_Search_Video.mp4 for a demonstration
+//This can only be run in Processing
+//You can download the video "Maze_Search_Video.mp4" for a demonstration
 
 
 //fitness is a calculation of how "good" a cell is (small numbers are better)
