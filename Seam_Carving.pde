@@ -1,3 +1,6 @@
+// This code carves out the vertical path with the least contrast, taking one pixel from each row
+// It can only be run in Processing
+
 PImage img;
 ArrayList<ArrayList<Float>> memory = new ArrayList<ArrayList<Float>>();
 
